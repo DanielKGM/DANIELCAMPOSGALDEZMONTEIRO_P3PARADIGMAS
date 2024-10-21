@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"scr"},{"l":"scr.escola"},{"l":"scr.escola.anos"},{"l":"scr.escola.participantes"},{"l":"scr.escola.participantes.alunos"},{"l":"scr.escola.participantes.funcionarios"},{"l":"scr.gui"},{"l":"scr.gui.dialogos"},{"l":"scr.gui.frames"}];updateSearchResults();
