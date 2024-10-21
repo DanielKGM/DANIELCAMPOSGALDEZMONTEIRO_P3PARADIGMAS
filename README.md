@@ -1,2 +1,2 @@
-Este respositório é o primeiro projeto que fiz enquanto aprofundava meus conhecimentos em JAVA, em uma época em que ainda não existia Chat GPT. Trata-se de um CRUD básico para gerenciamento de uma escola de ensino fundamental, onde podem ser registradas disciplinas, alunos e funcionários, bem como relacioná-los, do primeiro ao nono ano.
+Este repositório é o primeiro projeto que fiz enquanto aprofundava meus conhecimentos em JAVA, em uma época em que ainda não existia Chat GPT. Trata-se de um CRUD básico para gerenciamento de uma escola de ensino fundamental, onde podem ser registradas disciplinas, alunos e funcionários, bem como relacioná-los, do primeiro ao nono ano.
 O sistema é apenas um protótipo, um minímo produto viável, com uma interface feita em Java SWING/AWT.
